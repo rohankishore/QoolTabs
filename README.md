@@ -19,8 +19,8 @@
 
 ### Integrate QoolTabs to your existing PyQt6 App
 
-````
+````python
 import QoolTabs
 
-self.tab_widget = QoolTabWidget()
+self.tab_widget = QoolTabs.QoolTabWidget()
 ````
